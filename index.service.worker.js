@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1774292973|5077355744';
+const CACHE_VERSION = '1774293247|5351760907';
 /** @type {string} */
 const CACHE_PREFIX = 'Dobble-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
